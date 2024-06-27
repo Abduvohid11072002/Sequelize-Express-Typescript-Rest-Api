@@ -1,4 +1,4 @@
-import express, { Application, NextFunction, Request, Response } from "express";
+import express, { Application } from "express";
 import { connectDB } from "./config/database.config";
 import ToDoValidator from "./validator/index.validator";
 import Middleware from "./middlewares/index";

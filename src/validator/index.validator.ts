@@ -23,4 +23,4 @@ class ToDoValidator {
     }
 }
 
-export default new ToDoValidator; import { } from "express";
+export default new ToDoValidator;
